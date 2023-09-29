@@ -1,4 +1,5 @@
 #!/bin/bash
+# test
 set -uo pipefail
 
 case $1 in
